@@ -1,12 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.Data.SqlClient;
 
 namespace RentacarDB.Conexion
 {
-    internal class ConexionBD
+    public class ConexionBD
     {
+        private readonly string cadenaConexion =
+            @"Server=DESKTOP-TU4JT6C\SQLEXPRESS;
+              Database=RentCarDB;
+              Integrated Security=True;
+              TrustServerCertificate=True;";
+
+        public SqlConnection ObtenerConexion()
+        {
+            return new SqlConnection(cadenaConexion);
+        }
     }
 }
