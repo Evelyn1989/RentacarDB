@@ -1,6 +1,5 @@
 using System;
 using System.Windows.Forms;
-using RentacarDB.Formularios; // <-- Asegúrate de incluir esta línea
 
 namespace RentacarDB
 {
@@ -10,9 +9,7 @@ namespace RentacarDB
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-
-            // Abre directamente tu menú principal
-            Application.Run(new frmMenu());
+            Application.Run(new frmLogin());
         }
     }
 }
