@@ -1,7 +1,4 @@
-﻿using System.Drawing;
-using System.Windows.Forms;
-
-namespace RentaCar
+﻿namespace RentacarDB.Formularios
 {
     partial class frmMenu
     {
@@ -83,7 +80,7 @@ namespace RentaCar
             salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             salirToolStripMenuItem.Size = new Size(210, 30);
             salirToolStripMenuItem.Text = "Salir";
-           // salirToolStripMenuItem.Click += salirToolStripMenuItem_Click;
+            salirToolStripMenuItem.Click += salirToolStripMenuItem_Click;
             // 
             // registrarseToolStripMenuItem
             // 
@@ -126,7 +123,7 @@ namespace RentaCar
             flotillaToolStripMenuItem.Name = "flotillaToolStripMenuItem";
             flotillaToolStripMenuItem.Size = new Size(224, 30);
             flotillaToolStripMenuItem.Text = "Flotilla";
-           // flotillaToolStripMenuItem.Click += flotillaToolStripMenuItem_Click;
+            flotillaToolStripMenuItem.Click += flotillaToolStripMenuItem_Click;
             // 
             // adicionalesToolStripMenuItem
             // 
@@ -170,7 +167,7 @@ namespace RentaCar
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            //BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1382, 775);
             ControlBox = false;
             Controls.Add(menuStrip1);

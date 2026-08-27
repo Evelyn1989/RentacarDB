@@ -9,7 +9,7 @@ namespace MyLibreria2026
     {
         public static DataSet ejecutar(string comando)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=MurrayLaptop\MSSQLSERVER2025;Initial Catalog=RentaCarDB;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=MurrayLaptop\MSSQLSERVER2025;Initial Catalog=RentCarDB;Integrated Security=True");
             conn.Open();
             DataSet ds = new DataSet();
             SqlDataAdapter adaptador = new SqlDataAdapter(comando, conn);

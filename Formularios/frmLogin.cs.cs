@@ -1,6 +1,5 @@
 using System;
 using System.Data;
-using System.Data.SqlClient;
 using System.Windows.Forms;
 using myLibreria2026;
 using RentacarDB.Formularios;
@@ -27,7 +26,7 @@ namespace RentacarDB
                     txtContrasena.Text.Trim() == "")
                 {
                     MessageBox.Show(
-                        "Debe ingresar el usuario y la contraseña.",
+                        "Debe ingresar el usuario y la contrase�a.",
                         "Campos incompletos",
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Warning
@@ -36,37 +35,26 @@ namespace RentacarDB
                     return;
                 }
 
-                string usuario = txtUsuario.Text.Trim();
-                string contrasena = txtContrasena.Text.Trim();
+                string usuario =
+                    txtUsuario.Text.Trim().Replace("'", "''");
 
-                // Consulta parametrizada: ya no se concatena el texto del usuario dentro del SQL,
-                // así se elimina el riesgo de inyección SQL que tenía la versión anterior.
-                // NOTA: esto sigue comparando la contraseña en texto plano. Lo ideal es guardar un
-                // hash (BCrypt/PBKDF2) en la tabla Usuario y comparar el hash aquí, no el texto plano.
+                string contrasena =
+                    txtContrasena.Text.Trim().Replace("'", "''");
+
                 string consulta =
                     "SELECT IdUsuario, NombreUsuario, IdPerfil " +
                     "FROM Usuario " +
-                    "WHERE NombreUsuario = @Usuario " +
-                    "AND Contrasena = @Contrasena " +
+                    "WHERE NombreUsuario = '" + usuario + "' " +
+                    "AND Contrasena = '" + contrasena + "' " +
                     "AND Estado = 'Activo'";
 
-                SqlParameter[] parametros = new SqlParameter[]
-                {
-                    new SqlParameter("@Usuario", usuario),
-                    new SqlParameter("@Contrasena", contrasena)
-                };
-
                 Utilitarios utilidad = new Utilitarios();
-
-                // Esto asume que Utilitarios tiene (o se le agrega) un método Ejecutar que acepte
-                // parámetros de SQL. Si tu Utilitarios.cs solo tiene Ejecutar(string), compárteme
-                // ese archivo y te dejo la sobrecarga correspondiente.
-                DataSet datos = utilidad.Ejecutar(consulta, parametros);
+                DataSet datos = utilidad.Ejecutar(consulta);
 
                 if (datos.Tables[0].Rows.Count > 0)
                 {
                     MessageBox.Show(
-                        "Bienvenido al sistema " + usuario,
+                        "Bienvenida al sistema " + txtUsuario.Text,
                         "Acceso correcto",
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Information
@@ -81,7 +69,7 @@ namespace RentacarDB
                 else
                 {
                     MessageBox.Show(
-                        "El usuario o la contraseña son incorrectos.",
+                        "El usuario o la contrase�a son incorrectos.",
                         "Acceso denegado",
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Error
@@ -105,7 +93,7 @@ namespace RentacarDB
         private void btnSalir_Click(object sender, EventArgs e)
         {
             DialogResult respuesta = MessageBox.Show(
-                "¿Desea salir del sistema?",
+                "�Desea salir del sistema?",
                 "Confirmar salida",
                 MessageBoxButtons.YesNo,
                 MessageBoxIcon.Question
