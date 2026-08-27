@@ -1,9 +1,7 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
-using System.Xml.Linq;
-using static System.Net.Mime.MediaTypeNames;
 
-namespace RentacarDB.Formularios
+namespace RentaCar
 {
     partial class frmFlotilla
     {

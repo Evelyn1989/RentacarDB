@@ -1,21 +1,23 @@
+﻿using RentaCar.Formularios;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Forms;
-<<<<<<< Updated upstream
-=======
-using RentacarDB.Formularios; // <-- Asegúrate de incluir esta línea
->>>>>>> Stashed changes
 
-namespace RentacarDB
+namespace RentaCar
 {
     internal static class Program
     {
+        /// <summary>
+        /// Punto de entrada principal para la aplicación.
+        /// </summary>
         [STAThread]
         static void Main()
         {
-            ApplicationConfiguration.Initialize();
-
-            // Abre directamente tu menú principal
-            Application.Run(new frmMenu());
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new frmLogin());
         }
     }
 }

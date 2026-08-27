@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RentacarDB.Modelos
 {
@@ -13,13 +9,13 @@ namespace RentacarDB.Modelos
         public string NombreUsuario { get; set; }
         public string Contrasena { get; set; }
         public string Correo { get; set; }
-        public bool Estado { get; set; }
+        public string Estado { get; set; } 
         public int IdPerfil { get; set; }
 
         public Usuario() { }
 
         public Usuario(int idUsuario, string cedula, string nombreUsuario, string contrasena,
-                        string correo, bool estado, int idPerfil)
+                        string correo, string estado, int idPerfil)
         {
             IdUsuario = idUsuario;
             Cedula = cedula;

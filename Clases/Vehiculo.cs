@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RentacarDB.Modelos
 {
@@ -13,8 +9,8 @@ namespace RentacarDB.Modelos
         public string Marca { get; set; }
         public string Modelo { get; set; }
         public int Anio { get; set; }
-        public int Kilometraje { get; set; }
-        public bool Estado { get; set; }
+        public decimal Kilometraje { get; set; } 
+        public string Estado { get; set; }      
         public int IdCategoria { get; set; }
         public int IdSucursal { get; set; }
         public string TipoVehiculo { get; set; }
@@ -23,7 +19,7 @@ namespace RentacarDB.Modelos
         public string Transmision { get; set; }
         public int NumeroPasajeros { get; set; }
         public int NumeroMaletas { get; set; }
-        public int Autonomia { get; set; }
+        public string Autonomia { get; set; }    
         public decimal Calificacion { get; set; }
         public decimal PrecioPorDia { get; set; }
         public string Foto { get; set; }
@@ -31,9 +27,9 @@ namespace RentacarDB.Modelos
         public Vehiculo() { }
 
         public Vehiculo(int idVehiculo, string placa, string marca, string modelo, int anio,
-                         int kilometraje, bool estado, int idCategoria, int idSucursal,
+                         decimal kilometraje, string estado, int idCategoria, int idSucursal,
                          string tipoVehiculo, string motor, string combustible, string transmision,
-                         int numeroPasajeros, int numeroMaletas, int autonomia,
+                         int numeroPasajeros, int numeroMaletas, string autonomia,
                          decimal calificacion, decimal precioPorDia, string foto)
         {
             IdVehiculo = idVehiculo;

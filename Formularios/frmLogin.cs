@@ -1,11 +1,10 @@
-using System;
+﻿using System;
 using System.Data;
-using System.Data.SqlClient;
 using System.Windows.Forms;
-using myLibreria2026;
-using RentacarDB.Formularios;
+using MyLibreria2026;
+using RentacarDB.Modelos;
 
-namespace RentacarDB
+namespace RentaCar.Formularios
 {
     public partial class frmLogin : Form
     {
@@ -14,112 +13,68 @@ namespace RentacarDB
             InitializeComponent();
         }
 
-        private void frmLogin_Load(object sender, EventArgs e)
-        {
-            txtUsuario.Focus();
-        }
-
         private void btnIngresar_Click(object sender, EventArgs e)
         {
+            string usuario = txtUsuario.Text.Trim();
+            string contrasenaIngresada = txtContrasena.Text.Trim();
+
+  
+            if (string.IsNullOrWhiteSpace(usuario) || string.IsNullOrWhiteSpace(contrasenaIngresada))
+            {
+                MessageBox.Show("Por favor, ingrese el usuario y la contraseña.", "Atención",
+                                MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             try
             {
-                if (txtUsuario.Text.Trim() == "" ||
-                    txtContrasena.Text.Trim() == "")
+        
+                string contrasenaCodificada = Utilitarios.codificar(contrasenaIngresada);
+
+           
+                string query = $@"SELECT IdUsuario, NombreUsuario, IdPerfil, Estado 
+                                FROM Usuario 
+                                WHERE NombreUsuario = '{usuario}' 
+                                  AND Contrasena = '{contrasenaCodificada}'";
+
+                DataSet ds = Utilitarios.ejecutar(query);
+
+          
+                if (ds.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
                 {
-                    MessageBox.Show(
-                        "Debe ingresar el usuario y la contraseña.",
-                        "Campos incompletos",
-                        MessageBoxButtons.OK,
-                        MessageBoxIcon.Warning
-                    );
+                    DataRow dr = ds.Tables[0].Rows[0];
+                    string estado = dr["Estado"].ToString();
 
-                    return;
-                }
+                    if (!string.Equals(estado, "Activo", StringComparison.OrdinalIgnoreCase))
+                    {
+                        MessageBox.Show("El usuario se encuentra inactivo. Contacte al administrador.",
+                                        "Acceso Denegado", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                        return;
+                    }
 
-                string usuario = txtUsuario.Text.Trim();
-                string contrasena = txtContrasena.Text.Trim();
+                    MessageBox.Show($"¡Bienvenido al sistema RentaCar, {dr["NombreUsuario"]}!", "Acceso Concedido",
+                                    MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                // Consulta parametrizada: ya no se concatena el texto del usuario dentro del SQL,
-                // así se elimina el riesgo de inyección SQL que tenía la versión anterior.
-                // NOTA: esto sigue comparando la contraseña en texto plano. Lo ideal es guardar un
-                // hash (BCrypt/PBKDF2) en la tabla Usuario y comparar el hash aquí, no el texto plano.
-                string consulta =
-                    "SELECT IdUsuario, NombreUsuario, IdPerfil " +
-                    "FROM Usuario " +
-                    "WHERE NombreUsuario = @Usuario " +
-                    "AND Contrasena = @Contrasena " +
-                    "AND Estado = 'Activo'";
-
-                SqlParameter[] parametros = new SqlParameter[]
-                {
-                    new SqlParameter("@Usuario", usuario),
-                    new SqlParameter("@Contrasena", contrasena)
-                };
-
-                Utilitarios utilidad = new Utilitarios();
-
-                // Esto asume que Utilitarios tiene (o se le agrega) un método Ejecutar que acepte
-                // parámetros de SQL. Si tu Utilitarios.cs solo tiene Ejecutar(string), compárteme
-                // ese archivo y te dejo la sobrecarga correspondiente.
-                DataSet datos = utilidad.Ejecutar(consulta, parametros);
-
-                if (datos.Tables[0].Rows.Count > 0)
-                {
-                    MessageBox.Show(
-                        "Bienvenido al sistema " + usuario,
-                        "Acceso correcto",
-                        MessageBoxButtons.OK,
-                        MessageBoxIcon.Information
-                    );
-
-                    frmMenu menu = new frmMenu();
-
-                    Hide();
-                    menu.ShowDialog();
-                    Close();
+                 
                 }
                 else
                 {
-                    MessageBox.Show(
-                        "El usuario o la contraseña son incorrectos.",
-                        "Acceso denegado",
-                        MessageBoxButtons.OK,
-                        MessageBoxIcon.Error
-                    );
-
+                    MessageBox.Show("Usuario o contraseña incorrectos.", "Error de Autenticación",
+                                    MessageBoxButtons.OK, MessageBoxIcon.Error);
                     txtContrasena.Clear();
                     txtContrasena.Focus();
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show(
-                    "No se pudo validar el usuario: " + ex.Message,
-                    "Error",
-                    MessageBoxButtons.OK,
-                    MessageBoxIcon.Error
-                );
+                MessageBox.Show("Error al autenticar con la base de datos: " + ex.Message,
+                                "Error SQL", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
-        private void btnSalir_Click(object sender, EventArgs e)
+        private void btnCancelar_Click(object sender, EventArgs e)
         {
-            DialogResult respuesta = MessageBox.Show(
-                "¿Desea salir del sistema?",
-                "Confirmar salida",
-                MessageBoxButtons.YesNo,
-                MessageBoxIcon.Question
-            );
-
-            if (respuesta == DialogResult.Yes)
-            {
-                Application.Exit();
-            }
-        }
-
-        private void btnIngresar_Click_1(object sender, EventArgs e)
-        {
-            btnIngresar_Click(sender, e);
+            Application.Exit();
         }
     }
 }

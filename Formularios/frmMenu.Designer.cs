@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
 
-namespace RentacarDB.Formularios
+namespace RentaCar
 {
     partial class frmMenu
     {
@@ -83,7 +83,7 @@ namespace RentacarDB.Formularios
             salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             salirToolStripMenuItem.Size = new Size(210, 30);
             salirToolStripMenuItem.Text = "Salir";
-            // salirToolStripMenuItem.Click += salirToolStripMenuItem_Click;
+           // salirToolStripMenuItem.Click += salirToolStripMenuItem_Click;
             // 
             // registrarseToolStripMenuItem
             // 
@@ -126,7 +126,7 @@ namespace RentacarDB.Formularios
             flotillaToolStripMenuItem.Name = "flotillaToolStripMenuItem";
             flotillaToolStripMenuItem.Size = new Size(224, 30);
             flotillaToolStripMenuItem.Text = "Flotilla";
-            // flotillaToolStripMenuItem.Click += flotillaToolStripMenuItem_Click;
+           // flotillaToolStripMenuItem.Click += flotillaToolStripMenuItem_Click;
             // 
             // adicionalesToolStripMenuItem
             // 

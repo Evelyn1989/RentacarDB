@@ -1,8 +1,8 @@
+﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
-using static System.Net.Mime.MediaTypeNames;
 
-namespace RentacarDB
+namespace RentaCar.Formularios
 {
     partial class frmLogin
     {
@@ -32,93 +32,94 @@ namespace RentacarDB
         /// </summary>
         private void InitializeComponent()
         {
-            ññ = new Label();
-            label2 = new Label();
-            txtUsuario = new TextBox();
-            txtContrasena = new TextBox();
-            btnIngresar = new Button();
-            btnSalir = new Button();
-            SuspendLayout();
+            this.lblUsuario = new System.Windows.Forms.Label();
+            this.lblContrasena = new System.Windows.Forms.Label();
+            this.txtUsuario = new System.Windows.Forms.TextBox();
+            this.txtContrasena = new System.Windows.Forms.TextBox();
+            this.btnIngresar = new System.Windows.Forms.Button();
+            this.btnSalir = new System.Windows.Forms.Button();
+            this.SuspendLayout();
             // 
-            // ññ
+            // lblUsuario
             // 
-            ññ.AutoSize = true;
-            ññ.Location = new Point(36, 31);
-            ññ.Name = "ññ";
-            ññ.Size = new Size(47, 15);
-            ññ.TabIndex = 0;
-            ññ.Text = "Usuario";
+            this.lblUsuario.AutoSize = true;
+            this.lblUsuario.Location = new System.Drawing.Point(41, 33);
+            this.lblUsuario.Name = "lblUsuario";
+            this.lblUsuario.Size = new System.Drawing.Size(54, 16);
+            this.lblUsuario.TabIndex = 0;
+            this.lblUsuario.Text = "Usuario";
             // 
-            // label2
+            // lblContrasena
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(36, 110);
-            label2.Name = "label2";
-            label2.Size = new Size(67, 15);
-            label2.TabIndex = 1;
-            label2.Text = "Contraseña";
+            this.lblContrasena.AutoSize = true;
+            this.lblContrasena.Location = new System.Drawing.Point(41, 117);
+            this.lblContrasena.Name = "lblContrasena";
+            this.lblContrasena.Size = new System.Drawing.Size(76, 16);
+            this.lblContrasena.TabIndex = 1;
+            this.lblContrasena.Text = "Contraseña";
             // 
             // txtUsuario
             // 
-            txtUsuario.Location = new Point(129, 31);
-            txtUsuario.Name = "txtUsuario";
-            txtUsuario.Size = new Size(114, 23);
-            txtUsuario.TabIndex = 2;
+            this.txtUsuario.Location = new System.Drawing.Point(147, 33);
+            this.txtUsuario.Name = "txtUsuario";
+            this.txtUsuario.Size = new System.Drawing.Size(171, 22);
+            this.txtUsuario.TabIndex = 2;
             // 
             // txtContrasena
             // 
-            txtContrasena.Location = new Point(129, 102);
-            txtContrasena.Name = "txtContrasena";
-            txtContrasena.Size = new Size(114, 23);
-            txtContrasena.TabIndex = 3;
-            txtContrasena.UseSystemPasswordChar = true;
+            this.txtContrasena.Location = new System.Drawing.Point(147, 109);
+            this.txtContrasena.Name = "txtContrasena";
+            this.txtContrasena.Size = new System.Drawing.Size(171, 22);
+            this.txtContrasena.TabIndex = 3;
+            this.txtContrasena.UseSystemPasswordChar = true;
             // 
             // btnIngresar
             // 
-            btnIngresar.Location = new Point(36, 179);
-            btnIngresar.Name = "btnIngresar";
-            btnIngresar.Size = new Size(75, 23);
-            btnIngresar.TabIndex = 4;
-            btnIngresar.Text = "Ingresar";
-            btnIngresar.UseVisualStyleBackColor = true;
+            this.btnIngresar.Location = new System.Drawing.Point(41, 191);
+            this.btnIngresar.Name = "btnIngresar";
+            this.btnIngresar.Size = new System.Drawing.Size(86, 25);
+            this.btnIngresar.TabIndex = 4;
+            this.btnIngresar.Text = "Ingresar";
+            this.btnIngresar.UseVisualStyleBackColor = true;
+            this.btnIngresar.Click += new System.EventHandler(this.btnIngresar_Click);
             // 
             // btnSalir
             // 
-            btnSalir.Location = new Point(183, 179);
-            btnSalir.Name = "btnSalir";
-            btnSalir.Size = new Size(75, 23);
-            btnSalir.TabIndex = 5;
-            btnSalir.Text = "Salir";
-            btnSalir.UseVisualStyleBackColor = true;
-            //btnSalir.Click += btnSalir_Click;
+            this.btnSalir.Location = new System.Drawing.Point(209, 191);
+            this.btnSalir.Name = "btnSalir";
+            this.btnSalir.Size = new System.Drawing.Size(86, 25);
+            this.btnSalir.TabIndex = 5;
+            this.btnSalir.Text = "Salir";
+            this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // frmLogin
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(504, 291);
-            Controls.Add(btnSalir);
-            Controls.Add(btnIngresar);
-            Controls.Add(txtContrasena);
-            Controls.Add(txtUsuario);
-            Controls.Add(label2);
-            Controls.Add(ññ);
-            FormBorderStyle = FormBorderStyle.FixedSingle;
-            MaximizeBox = false;
-            MinimizeBox = false;
-            Name = "frmLogin";
-            SizeGripStyle = SizeGripStyle.Show;
-            StartPosition = FormStartPosition.CenterScreen;
-            Text = "Inicio de Sesión";
-            //Load += frmLogin_Load;
-            ResumeLayout(false);
-            PerformLayout();
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(576, 310);
+            this.Controls.Add(this.btnSalir);
+            this.Controls.Add(this.btnIngresar);
+            this.Controls.Add(this.txtContrasena);
+            this.Controls.Add(this.txtUsuario);
+            this.Controls.Add(this.lblContrasena);
+            this.Controls.Add(this.lblUsuario);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "frmLogin";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Inicio de Sesión";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
 
-        private Label ññ;
-        private Label label2;
+        private Label lblUsuario;
+        private Label lblContrasena;
         private TextBox txtUsuario;
         private TextBox txtContrasena;
         private Button btnIngresar;
