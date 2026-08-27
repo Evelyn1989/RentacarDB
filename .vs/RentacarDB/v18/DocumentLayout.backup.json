@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9748C414-A797-43D6-A008-51F6432B68D5}|RentacarDB.csproj|C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\formularios\\frmflotilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9748C414-A797-43D6-A008-51F6432B68D5}|RentacarDB.csproj|solutionrelative:formularios\\frmflotilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9748C414-A797-43D6-A008-51F6432B68D5}|RentacarDB.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmflotilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9748C414-A797-43D6-A008-51F6432B68D5}|RentacarDB.csproj|solutionrelative:formularios\\frmflotilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmFlotilla.cs",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmFlotilla.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.cs",
+              "RelativeToolTip": "Formularios\\frmFlotilla.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAASwIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T18:46:15.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmFlotilla.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmFlotilla.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmFlotilla.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T18:34:28.768Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

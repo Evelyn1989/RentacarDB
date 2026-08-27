@@ -1,0 +1,11 @@
+D:\C#2026\SistCV\proyecto\RentaCar\obj\Debug\RentaCar.csproj.AssemblyReference.cache
+D:\C#2026\SistCV\proyecto\RentaCar\obj\Debug\RentaCar.Properties.Resources.resources
+D:\C#2026\SistCV\proyecto\RentaCar\obj\Debug\RentaCar.csproj.GenerateResource.cache
+D:\C#2026\SistCV\proyecto\RentaCar\obj\Debug\RentaCar.csproj.CoreCompileInputs.cache
+D:\C#2026\SistCV\proyecto\RentaCar\bin\Debug\RentaCar.exe
+D:\C#2026\SistCV\proyecto\RentaCar\bin\Debug\RentaCar.pdb
+D:\C#2026\SistCV\proyecto\RentaCar\bin\Debug\MyLibreria2026.dll
+D:\C#2026\SistCV\proyecto\RentaCar\bin\Debug\MyLibreria2026.pdb
+D:\C#2026\SistCV\proyecto\RentaCar\obj\Debug\RentaCar.csproj.Up2Date
+D:\C#2026\SistCV\proyecto\RentaCar\obj\Debug\RentaCar.exe
+D:\C#2026\SistCV\proyecto\RentaCar\obj\Debug\RentaCar.pdb

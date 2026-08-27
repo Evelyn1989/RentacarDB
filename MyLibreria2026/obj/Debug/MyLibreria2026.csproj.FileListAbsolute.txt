@@ -1,0 +1,6 @@
+D:\C#2026\SistCV\proyecto\RentaCar\MyLibreria2026\bin\Debug\MyLibreria2026.dll
+D:\C#2026\SistCV\proyecto\RentaCar\MyLibreria2026\bin\Debug\MyLibreria2026.pdb
+D:\C#2026\SistCV\proyecto\RentaCar\MyLibreria2026\obj\Debug\MyLibreria2026.csproj.AssemblyReference.cache
+D:\C#2026\SistCV\proyecto\RentaCar\MyLibreria2026\obj\Debug\MyLibreria2026.csproj.CoreCompileInputs.cache
+D:\C#2026\SistCV\proyecto\RentaCar\MyLibreria2026\obj\Debug\MyLibreria2026.dll
+D:\C#2026\SistCV\proyecto\RentaCar\MyLibreria2026\obj\Debug\MyLibreria2026.pdb
