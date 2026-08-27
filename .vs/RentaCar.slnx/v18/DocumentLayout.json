@@ -3,6 +3,45 @@
   "WorkspaceRootPath": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmflotilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmflotilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmperfil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmmostrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -21,19 +60,7 @@
       "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|D:\\C#2026\\SistCV\\proyecto\\RentaCar\\RentaCar.csproj|d:\\c#2026\\sistcv\\proyecto\\rentacar\\formularios\\frmreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -95,33 +122,183 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmFlotilla.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmFlotilla.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmFlotilla.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:24:15.9Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:39:30.124Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmMostrador.Designer.cs",
-              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.Designer.cs",
-              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.Designer.cs",
-              "ViewState": "AgIAANwAAAAAAAAAAAAswAkBAAABAAAAAAAAAA==",
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMenu.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:51:21.227Z",
+              "WhenOpened": "2026-08-27T12:37:57.198Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Program.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:53:54.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmReserva.Designer.cs",
-              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.Designer.cs",
-              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.Designer.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAswOcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "frmReserva.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:50:52.508Z",
+              "WhenOpened": "2026-08-27T12:49:07.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmFlotilla.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmFlotilla.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmFlotilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:24:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmUsuario.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmUsuario.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:07:26.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMenu.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMenu.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIA6wEQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:55:05.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "frmVehiculo.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmVehiculo.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmVehiculo.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:34:03.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPerfil.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmPerfil.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmPerfil.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:11:08.886Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmPerfil.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmPerfil.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmPerfil.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:11:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPerfil.Designer.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmPerfil.Designer.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmPerfil.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:11:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmReserva.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:49:14.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmReportes.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:41:05.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMenu.Designer.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMenu.Designer.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:00:33.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMostrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:49:43.687Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "frmMostrador.cs",
               "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.cs",
               "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.cs",
@@ -132,49 +309,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmMostrador.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.cs",
-              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.cs [Dise\u00F1o]",
+              "DocumentIndex": 16,
+              "Title": "frmReserva.Designer.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.Designer.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.Designer.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAswOcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:49:43.687Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-08-27T12:50:52.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmReserva.cs",
-              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.cs",
-              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAswJkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "frmMostrador.Designer.cs",
+              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.Designer.cs",
+              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMostrador.Designer.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAswAkBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:49:14.303Z",
+              "WhenOpened": "2026-08-27T12:51:21.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmReserva.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.cs",
-              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReserva.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:49:07.945Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmReportes.cs",
-              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.cs",
-              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAswIgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:41:05.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "frmReportes.Designer.cs",
               "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.Designer.cs",
               "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.Designer.cs",
@@ -184,32 +340,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmReportes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.cs",
-              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmReportes.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:39:30.124Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmMenu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMenu.cs",
-              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmMenu.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:37:57.198Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "frmVehiculo.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmVehiculo.cs",
               "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmVehiculo.cs [Dise\u00F1o]",
@@ -219,18 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmVehiculo.cs",
-              "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmVehiculo.cs",
-              "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmVehiculo.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAkwJQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:34:03.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "frmUsuario.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmUsuario.cs",
               "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmUsuario.cs [Dise\u00F1o]",
@@ -240,40 +361,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "frmCliente.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmCliente.cs",
               "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmCliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:37:42.093Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-08-27T12:37:42.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "frmCliente.cs",
               "DocumentMoniker": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmCliente.cs",
               "ToolTip": "D:\\C#2026\\SistCV\\proyecto\\RentaCar\\Formularios\\frmCliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T12:35:37.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-27T12:35:37.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "frmVehiculo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmVehiculo.cs",
               "RelativeDocumentMoniker": "Formularios\\frmVehiculo.cs",
               "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmVehiculo.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\frmVehiculo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:54:11.634Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-08-27T04:54:11.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "frmVehiculo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmVehiculo.Designer.cs",
               "RelativeDocumentMoniker": "Formularios\\frmVehiculo.Designer.cs",
@@ -281,12 +399,11 @@
               "RelativeToolTip": "Formularios\\frmVehiculo.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:53:57.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-27T04:53:57.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "frmLogin.Designer.cs",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmLogin.Designer.cs",
               "RelativeDocumentMoniker": "Formularios\\frmLogin.Designer.cs",
@@ -294,48 +411,44 @@
               "RelativeToolTip": "Formularios\\frmLogin.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:52:01.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-27T04:52:01.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "frmFlotilla.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.cs",
               "RelativeDocumentMoniker": "Formularios\\frmFlotilla.cs",
               "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\frmFlotilla.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:41:43.316Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-08-27T04:41:43.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "frmCliente.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmCliente.cs",
               "RelativeDocumentMoniker": "Formularios\\frmCliente.cs",
               "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmCliente.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\frmCliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:41:37.962Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-08-27T04:41:37.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "frmLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmLogin.cs",
               "RelativeDocumentMoniker": "Formularios\\frmLogin.cs",
               "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmLogin.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\frmLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:46:20.983Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-08-27T04:46:20.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "frmMenu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmMenu.Designer.cs",
               "RelativeDocumentMoniker": "Formularios\\frmMenu.Designer.cs",
@@ -343,24 +456,22 @@
               "RelativeToolTip": "Formularios\\frmMenu.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:46:45.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-27T04:46:45.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "frmMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmMenu.cs",
               "RelativeDocumentMoniker": "Formularios\\frmMenu.cs",
               "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmMenu.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\frmMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:46:33.652Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-08-27T04:46:33.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "frmCliente.Designer.cs",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmCliente.Designer.cs",
               "RelativeDocumentMoniker": "Formularios\\frmCliente.Designer.cs",
@@ -368,12 +479,11 @@
               "RelativeToolTip": "Formularios\\frmCliente.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALQBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:51:20.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-27T04:51:20.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "frmFlotilla.Designer.cs",
               "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.Designer.cs",
               "RelativeDocumentMoniker": "Formularios\\frmFlotilla.Designer.cs",
@@ -381,8 +491,7 @@
               "RelativeToolTip": "Formularios\\frmFlotilla.Designer.cs",
               "ViewState": "AgIAAMkAAAAAAAAAAAAswPYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:41:55.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-27T04:41:55.021Z"
             }
           ]
         }
