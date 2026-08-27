@@ -1,4 +1,9 @@
-﻿namespace RentacarDB.Formularios
+﻿using System.Drawing;
+using System.Windows.Forms;
+using System.Xml.Linq;
+using static System.Net.Mime.MediaTypeNames;
+
+namespace RentacarDB.Formularios
 {
     partial class frmFlotilla
     {
@@ -87,7 +92,7 @@
             btnLimpiar.TabIndex = 10;
             btnLimpiar.Text = "&Limpiar";
             btnLimpiar.UseVisualStyleBackColor = true;
-            btnLimpiar.Click += btnLimpiar_Click_1;
+            //btnLimpiar.Click += btnLimpiar_Click_1;
             // 
             // btnGuardar
             // 
@@ -97,7 +102,7 @@
             btnGuardar.TabIndex = 3;
             btnGuardar.Text = "&Guardar";
             btnGuardar.UseVisualStyleBackColor = true;
-            btnGuardar.Click += btnGuardar_Click;
+            //btnGuardar.Click += btnGuardar_Click;
             // 
             // lblEstado
             // 
@@ -199,20 +204,20 @@
             button2.TabIndex = 4;
             button2.Text = "&Cerrar";
             button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            //button2.Click += button2_Click;
             // 
             // frmFlotilla
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1039, 593);
+            ClientSize = new Size(1147, 751);
             ControlBox = false;
             Controls.Add(button2);
             Controls.Add(grbDatos);
             Controls.Add(grbDatosDelVehiculo);
             Name = "frmFlotilla";
             Text = "frmFlotilla";
-            Load += frmFlotilla_Load;
+            //Load += frmFlotilla_Load;
             grbDatosDelVehiculo.ResumeLayout(false);
             grbDatosDelVehiculo.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dgvVehiculos).EndInit();

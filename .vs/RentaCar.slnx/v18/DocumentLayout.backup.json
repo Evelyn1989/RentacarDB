@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmvehiculo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmvehiculo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmflotilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmflotilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|c:\\users\\amurr\\onedrive\\documents\\github\\rentacardb\\formularios\\frmflotilla.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D402CEB2-377A-469A-8693-B06B4EE73347}|RentaCar.csproj|solutionrelative:formularios\\frmflotilla.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVehiculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmVehiculo.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmVehiculo.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmVehiculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmVehiculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:54:11.634Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVehiculo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmVehiculo.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmVehiculo.Designer.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmVehiculo.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmVehiculo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:53:57.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:52:01.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmFlotilla.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmFlotilla.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmFlotilla.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:41:43.316Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmCliente.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:41:37.962Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:46:20.983Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmMenu.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:46:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:46:33.652Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmCliente.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmCliente.Designer.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmCliente.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmCliente.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:51:20.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmFlotilla.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmFlotilla.Designer.cs",
+              "ToolTip": "C:\\Users\\amurr\\OneDrive\\Documents\\GitHub\\RentacarDB\\Formularios\\frmFlotilla.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmFlotilla.Designer.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAswPYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:41:55.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

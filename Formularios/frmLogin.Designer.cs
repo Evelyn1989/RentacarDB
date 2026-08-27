@@ -1,3 +1,7 @@
+using System.Drawing;
+using System.Windows.Forms;
+using static System.Net.Mime.MediaTypeNames;
+
 namespace RentacarDB
 {
     partial class frmLogin
@@ -28,7 +32,7 @@ namespace RentacarDB
         /// </summary>
         private void InitializeComponent()
         {
-            lblUsuario = new Label();
+            ññ = new Label();
             label2 = new Label();
             txtUsuario = new TextBox();
             txtContrasena = new TextBox();
@@ -36,14 +40,14 @@ namespace RentacarDB
             btnSalir = new Button();
             SuspendLayout();
             // 
-            // lblUsuario
+            // ññ
             // 
-            lblUsuario.AutoSize = true;
-            lblUsuario.Location = new Point(36, 31);
-            lblUsuario.Name = "lblUsuario";
-            lblUsuario.Size = new Size(47, 15);
-            lblUsuario.TabIndex = 0;
-            lblUsuario.Text = "Usuario";
+            ññ.AutoSize = true;
+            ññ.Location = new Point(36, 31);
+            ññ.Name = "ññ";
+            ññ.Size = new Size(47, 15);
+            ññ.TabIndex = 0;
+            ññ.Text = "Usuario";
             // 
             // label2
             // 
@@ -77,7 +81,6 @@ namespace RentacarDB
             btnIngresar.TabIndex = 4;
             btnIngresar.Text = "Ingresar";
             btnIngresar.UseVisualStyleBackColor = true;
-            btnIngresar.Click += btnIngresar_Click_1;
             // 
             // btnSalir
             // 
@@ -87,7 +90,7 @@ namespace RentacarDB
             btnSalir.TabIndex = 5;
             btnSalir.Text = "Salir";
             btnSalir.UseVisualStyleBackColor = true;
-            btnSalir.Click += btnSalir_Click;
+            //btnSalir.Click += btnSalir_Click;
             // 
             // frmLogin
             // 
@@ -99,7 +102,7 @@ namespace RentacarDB
             Controls.Add(txtContrasena);
             Controls.Add(txtUsuario);
             Controls.Add(label2);
-            Controls.Add(lblUsuario);
+            Controls.Add(ññ);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
             MinimizeBox = false;
@@ -107,14 +110,14 @@ namespace RentacarDB
             SizeGripStyle = SizeGripStyle.Show;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Inicio de Sesión";
-            Load += frmLogin_Load;
+            //Load += frmLogin_Load;
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private Label lblUsuario;
+        private Label ññ;
         private Label label2;
         private TextBox txtUsuario;
         private TextBox txtContrasena;
