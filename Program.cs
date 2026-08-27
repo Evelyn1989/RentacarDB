@@ -1,5 +1,9 @@
 using System;
 using System.Windows.Forms;
+<<<<<<< Updated upstream
+=======
+using RentacarDB.Formularios; // <-- Asegúrate de incluir esta línea
+>>>>>>> Stashed changes
 
 namespace RentacarDB
 {
@@ -9,7 +13,9 @@ namespace RentacarDB
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new frmLogin());
+
+            // Abre directamente tu menú principal
+            Application.Run(new frmMenu());
         }
     }
 }
