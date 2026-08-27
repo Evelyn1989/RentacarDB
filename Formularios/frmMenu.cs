@@ -1,4 +1,3 @@
-﻿using System;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -26,7 +25,7 @@ namespace RentacarDB.Formularios
         private void flotillaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmFlotilla pantallaFlotilla = new frmFlotilla();
-            pantallaFlotilla.ShowDialog(); 
+            pantallaFlotilla.ShowDialog();
         }
     }
 }
